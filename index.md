@@ -1,3 +1,5 @@
+Hello
+
 ## :nerd_face: Data
 I'm a freelance [analytics engineer](https://blog.getdbt.com/what-is-an-analytics-engineer/) with previous work experience at Better.com and Spotify. I've had roles across data analytics, data project management, data science, and data engineering. Email me at kenny@kndata.co for inquiries.
 
