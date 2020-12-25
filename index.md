@@ -1,2 +1,2 @@
-## Kenny Ning
-Hello, my  name is Kenny.
+## Data
+I'm currently a freelance [analytics engineer](https://blog.getdbt.com/what-is-an-analytics-engineer/).
