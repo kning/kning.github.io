@@ -1,6 +1,5 @@
 theme: jekyll-theme-cayman
 title: Kenny Ning
-subtitle: Freelance analytics engineer, music producer, writer
-description: ""
+description: I'm a freelance analytics engineer, music producer, and writer
 plugins:
   - jemoji
