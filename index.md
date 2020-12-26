@@ -1,7 +1,7 @@
-Welcome to my homepage :wave:
+Welcome to my project homepage :wave:
 
 ## :nerd_face: Data
-I'm a freelance [analytics engineer](https://blog.getdbt.com/what-is-an-analytics-engineer/) with previous work experience at Better.com and Spotify. I've had roles across data analytics, data project management, data science, and data engineering. Email me at kenny@kndata.co for inquiries.
+I'm a freelance [analytics engineer](https://blog.getdbt.com/what-is-an-analytics-engineer/), previously at [Better.com](better.com) and [Spotify](spotify.com). Email kenny@kndata.co if you want to work with me.
 
 ## :headphones: Music
 I produce music as [k-means](https://soundcloud.com/kmeansbusiness) for myself and [other artists](https://levelmusic.lnk.to/3TYHuy).
