@@ -1,7 +1,4 @@
-Hi there 👋
-
 <img width="332" alt="headshot 2021" src="https://user-images.githubusercontent.com/1820651/187792711-4d5437b5-b13d-4e0b-bcec-88d4dc306bb7.png">
-
 
 I'm a freelance analytics engineer helping companies build analytics infrastructure.
 
