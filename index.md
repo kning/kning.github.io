@@ -1,9 +1,9 @@
 <img width="332" alt="headshot 2021" src="https://user-images.githubusercontent.com/1820651/187792711-4d5437b5-b13d-4e0b-bcec-88d4dc306bb7.png">
 
-I'm a freelance analytics engineer helping companies build analytics infrastructure.
+I'm a freelance analytics engineer helping businesses build analytics infrastructure.
 
 ## Infrastructure solutions
-My core work centers around helping businesses select and implement analytics infrastructure. I'm an official dbt Labs partner and have expertise in tools like Looker, Snowflake, and Fivetran.
+I help businesses select and implement analytics infrastructure. I'm an official dbt Labs partner and have expertise in tools like Looker, Snowflake, and Fivetran.
 
 Selected past client work:
 * Delivered robust and secure data reporting solution for client's customers via dbt and Snowflake data sharing
@@ -13,7 +13,7 @@ Selected past client work:
 * Developed a python script to identify the most significant drivers in conversion variance across multiple dimensions, saving time spent doing exploratory analysis
 
 ## Technical blogging
-I contribute to startups' public blogs to help them establish credibility in the data space.
+I contribute to businesses' public blogs to help them establish credibility in the data space.
 
 Selected writing:
 * Datafold: [Different ways to diff](https://www.datafold.com/blog/different-ways-to-diff-data?exp_id=2)
