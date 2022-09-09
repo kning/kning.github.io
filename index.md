@@ -3,7 +3,7 @@
 I'm a freelance analytics engineer helping businesses build analytics infrastructure.
 
 ## Infrastructure solutions
-I help businesses select and implement analytics infrastructure. I'm an official dbt Labs partner and have expertise in tools like Looker, Snowflake, and Fivetran.
+I help businesses select and implement analytics infrastructure. I'm an official dbt Labs partner, registered Snowflake partner, and have expertise in tools like Looker and Fivetran.
 
 Selected past client work:
 * Delivered robust and secure data reporting solution for client's customers via dbt and Snowflake data sharing
