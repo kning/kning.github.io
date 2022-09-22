@@ -16,10 +16,10 @@ Selected past client work:
 I contribute to businesses' public blogs to help them establish credibility in the data space.
 
 Selected writing:
+* Spectacles: [How to fix your LookML project](https://www.spectacles.dev/post/fix-your-lookml-project-structure)
 * Datafold: [Different ways to diff](https://www.datafold.com/blog/different-ways-to-diff-data?exp_id=2)
 * Datafold: [How to onboard analytics engineers](https://www.datafold.com/blog/how-to-onboard-analytics-engineers?exp_id=2)
 * Water & Music: [Why podcasts won't save Spotify](https://www.waterandmusic.com/why-podcasts-wont-save-spotify/)
-* How to fix your LookML project structure (coming soon)
 
 ## Community work
 I'm actively involved in the greater data and analytics community as a way to keep up to date with the latest trends and maintain a strong network.
