@@ -2,6 +2,8 @@
 
 I'm a freelance analytics engineer helping businesses build analytics infrastructure.
 
+I have 8 years of experience across data roles and have worked with companies like Spotify, Better, Seatgeek, and Clearcover.
+
 ## Infrastructure solutions
 I help businesses select and implement analytics infrastructure. I have particular expertise in Looker, but I'm also official partners with dbt Labs, Snowflake, and Fivetran.
 
