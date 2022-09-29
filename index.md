@@ -10,7 +10,6 @@ I help businesses select and implement analytics infrastructure. I have particul
 Selected past client work:
 * Delivered robust and secure data reporting solution for client's customers via dbt and Snowflake data sharing
 * Reduced % of long-running (>2m) analytics queries from 14% to 3% by migrating Looker backend from Postgres to Snowflake
-* Reduced errors in production and provided greater transparency for stakeholders by upgrading data pipeline tooling to dbt Cloud
 * Improved allocation of marketing dollars by unifying ad network and first-party click data into a single dataset
 * Developed a python script to identify the most significant drivers in conversion variance across multiple dimensions, saving time spent doing exploratory analysis
 
