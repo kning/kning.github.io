@@ -1,26 +1,33 @@
 <img width="332" alt="headshot 2021" src="https://user-images.githubusercontent.com/1820651/187792711-4d5437b5-b13d-4e0b-bcec-88d4dc306bb7.png">
 
-I'm a freelance analytics engineer helping businesses build analytics infrastructure.
+I'm a freelance analytics engineer with 9 years of experience across data roles and at companies ranging in size from early-stage startups to public companies.
 
-I have 8 years of experience across data roles and have worked with companies like Spotify, Better, Seatgeek, Findigs, and Clearcover.
+I help businesses through three main professional services: analytics infrastructure solutions, technical blogging, and go-to-market strategy.
 
-## Infrastructure solutions
-I help businesses select and implement analytics infrastructure. I have particular expertise in Looker, but I'm also official partners with dbt Labs, Snowflake, and Fivetran.
+## Analytics infrastructure solutions
+I select and implement analytics infrastructure to make data-informed decision making as easy as possible. I have particular expertise in Looker, but I'm also official partners with dbt Labs, Snowflake, and Fivetran.
 
-Selected past client work:
-* Delivered robust and secure data reporting solution for client's customers via dbt and Snowflake data sharing
-* Reduced % of long-running (>2m) analytics queries from 14% to 3% by migrating Looker backend from Postgres to Snowflake
-* Improved allocation of marketing dollars by unifying ad network and first-party click data into a single dataset
-* Developed a python script to identify the most significant drivers in conversion variance across multiple dimensions, saving time spent doing exploratory analysis
+Selected past work:
+* Rebuilt last touch marketing attribution pipeline from ground-up to improve trust in marketing data and prototype a more efficient analytics workflow using dbt, Looker, and Airflow
+* Implemented end-to-end analytics platform of Looker, Snowflake, Fivetran, dbt, and Hightouch, enabling a data team of one to comfortably manage dozens of complex external reporting requirements
+* Standardized business and product metrics such as loan volume and missed calls, providing a trusted analytics platform for >500 weekly active users
+
+Companies: Spotify, Better, Seatgeek, Current, Findigs, obe Fitness, Clearcover, Fast Growing Trees
 
 ## Technical blogging
-I contribute to businesses' public blogs to help them establish credibility in the data space.
+I contribute to businesses' public blogs to help them establish credibility, especially among other data professionals.
 
 Selected writing:
+* Spectacles: [PDTs vs. dbt in 2022](https://www.spectacles.dev/post/looker-pdts-vs-dbt-models-2022)
 * Spectacles: [How to fix your LookML project](https://www.spectacles.dev/post/fix-your-lookml-project-structure)
 * Datafold: [Different ways to diff](https://www.datafold.com/blog/different-ways-to-diff-data?exp_id=2)
-* Datafold: [How to onboard analytics engineers](https://www.datafold.com/blog/how-to-onboard-analytics-engineers?exp_id=2)
-* Water & Music: [Why podcasts won't save Spotify](https://www.waterandmusic.com/why-podcasts-wont-save-spotify/)
+
+Companies: Spectacles, Datafold, Water & Music
+
+## Go-to-market strategy
+I advise startups on their go-to-market strategy with an emphasis on top-of-funnel awareness via content strategy (e.g. blogs, podcasts, influencer marketing). In addition to my data background, I have a strong user and market research background that enables me to take a more holistic, yet still scientific, approach to identifying new market oppotunities.
+
+Companies: dbt, Supergrain, Deep Channel
 
 ## Community work
 I'm actively involved in the greater data and analytics community as a way to keep up to date with the latest trends and maintain a strong network.
@@ -31,5 +38,5 @@ Selected community work:
 * dbt Meetup talk: [Predicting customer conversions](https://www.youtube.com/watch?v=BF7HH8JDUS0)
 
 ## Contact
-If you're looking for either infrastructure solutions or technical blogging contract work, send an email to kenny@kndata.co and we can connect!
+If you're looking for analytics infrastructure solutions, technical blogging, or go-to-market contract work, send an email to kenny@kndata.co and we can connect!
 
