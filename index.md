@@ -1,18 +1,20 @@
 <img width="332" alt="headshot 2021" src="https://user-images.githubusercontent.com/1820651/187792711-4d5437b5-b13d-4e0b-bcec-88d4dc306bb7.png">
 
-I'm a freelance analytics engineer with 9 years of experience across data roles and at companies ranging in size from early-stage startups to public companies.
+I'm an independent freelance analytics engineer having provided BI solutions to over a dozen clients across fintech, e-commerce, and healthcare.
 
 I help businesses through three main professional services: analytics engineering, technical blogging, and go-to-market strategy.
 
 ## Analytics engineering
-I select and implement analytics infrastructure to make data-informed decision making as easy as possible. I have particular expertise in Looker and dbt, but am also official partners with tools like Snowflake, BigQuery, Fivetran, and Hex.
+I select and implement analytics infrastructure to make data-informed decision making as easy as possible. I have particular expertise in Looker and dbt, but am also official partners with tools like Snowflake and Fivetran.
 
 Selected past work:
-* Migrated data team's workflow from Airflow to dbt and Looker, significantly improving developer efficiency and reporting consistency
-* Implemented end-to-end analytics platform of Looker, Snowflake, Fivetran, dbt, and Hightouch, enabling a data team of one to comfortably manage dozens of complex external reporting requirements
+* Developed an 18-input daily user unit economics model, automating financial reporting and enabling LTV analysis to understand the true value of different product features
+* Spearheaded the adoption of dbt and Looker for a Series D fintech client, significantly improving reporting consistency while driving down time to code merge by 90%
+* Designed and created a last touch attribution model and associated dashboards, enabling marketing to assess ROI of $1M / month spend down to the user-campaign level
 * Standardized business and product metrics such as loan volume and missed calls, providing a trusted analytics platform for >500 weekly active users
+* Collaborated with product, finance, and content on an A/B test for sleep music search ranking, demonstrating we could drive traffic to Spotify-owned properties and save up to 1% on gross margin without impacting the user experience
 
-Companies: Spotify, Better, Current, Findigs, Seatgeek, obe Fitness, Clearcover
+Companies: Spotify, Better, Current, Findigs, Seatgeek, obe Fitness, Clearcover, Miles Partnership
 
 ## Technical blogging
 I contribute to businesses' public blogs to help them establish credibility, especially among other data professionals.
@@ -33,9 +35,9 @@ Companies: dbt, Deep Channel, Supergrain
 I'm actively involved in the greater data and analytics community as a way to keep up to date with the latest trends and maintain a strong network.
 
 Selected community work:
+* Personal blog: [3 ways to deploy dbt](https://kleandata.substack.com/p/cron-dbt-cloud-and-airflow-3-ways)
 * dbt Coalesce 2020 talk: [Kiro dreams of data](https://www.getdbt.com/coalesce-2020/kiro-dreams-of-data/)
 * Analytics Engineering Roundup feature: [Explaining conversion rates](https://roundup.getdbt.com/p/data-career-ladders-explaining-conversion-rates-ray-spotify-s-ml-infra-dsr-213-220479)
-* dbt Meetup talk: [Predicting customer conversions](https://www.youtube.com/watch?v=BF7HH8JDUS0)
 
 ## Contact
 If you're looking for analytics engineering, technical blogging, or go-to-market contract work, send an email to kenny@kndata.co and we can connect!
