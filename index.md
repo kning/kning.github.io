@@ -9,11 +9,11 @@ I work on special projects like:
 * Fraud operations
 * Data analytics platform
 
-Previously, I've worked as data and analytics engineer for companies like Spotify, Better, Current, and Seatgeek.
+Previously, I've worked as a data and analytics engineer for companies like Spotify, Better, Current, and Seatgeek.
 
 ## Featured projects
 * 10x-ed unbranded search traffic to Modal
-* One-man data team support for 30+ employees and underlying [tech stack](https://modal.com/blog/analytics-stack) (Snowflake, Hex, Segment, Posthog, dbt, dlt)
+* One-man data team support for 30+ employees and analytics [tech stack](https://modal.com/blog/analytics-stack) (Snowflake, Hex, Segment, Posthog, dbt, dlt)
 * Developed topical authority on deploying ComfyUI, a popular open-source diffusion platform ([this post](https://modal.com/blog/comfyui-prototype-to-production) hit Hacker News front page)
 * Saved tens of thousands of $s a month by cracking down on fake / fraudulent users
 
