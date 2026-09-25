@@ -1,9 +1,5 @@
 ![headshot-2025-smallest](https://github.com/user-attachments/assets/a5acb42e-c1f7-4fa2-b125-1a96deb3963e)
 
-### Hi, I'm Kenny Ning.
-
-I'm an analytics engineer with a focus on supporting finance and business operations.
-
 Currently, I'm the Head of Data at [Modal](http://modal.com/), a cloud platform for making AI, ML, and data workloads super easy.
 
 Some things I've worked on:
